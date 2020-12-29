@@ -3,9 +3,9 @@
 I am a lover of Website creation. Check out @CUBE-PRIVATE for shared websites and scripts.
 
 I own 3 domains:
-mrbffyt.com
-teamgamerland.tk
-cuberprivate.tk
+- mrbffyt.com
+- teamgamerland.tk
+- cuberprivate.tk
 
 My teams are on:
 CUBE-PRIVATE
