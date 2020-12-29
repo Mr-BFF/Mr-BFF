@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**Mr-BFF/Mr-BFF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a lover of Website creation. Check out @CUBE-PRIVATE for shared websites and scripts.
 
-Here are some ideas to get you started:
+I own 3 domains:
+mrbffyt.com
+teamgamerland.tk
+cuberprivate.tk
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My teams are on:
+CUBE-PRIVATE
+And My Website Archive
+
+BEST MOMENTS
+- Getting Ads on Adsense
+- Knowing basics of a website layout and components
+- Verifying my website presence and ownership
+
+Reach out to me if you want to use any components. No forking without my permission!
