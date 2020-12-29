@@ -17,5 +17,3 @@ BEST MOMENTS
 - Verifying my website presence and ownership
 
 Reach out to me if you want to use any components. No forking without my permission!
-
-https://www.cuberprivate.tk/images/mbar.png
