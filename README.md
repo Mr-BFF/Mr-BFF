@@ -2,11 +2,13 @@
 
 I am a lover of Website creation. Check out [@CUBE-PRIVATE](https://github.com/CUBE-PRIVATE) for shared websites and scripts.
 
-I own 3 domains:
-- mrbffyt.com
-- camelfrogpodcast.com
-- teamgamerland.tk
-
+Domain TLDs I used - lifetime
+- .com
+- .xyz
+- .design
+- .space
+- .tech
+- co.uk
 
 My teams are on:
 CUBE-PRIVATE
