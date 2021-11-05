@@ -8,7 +8,7 @@ Domain TLDs I used - lifetime
 - .design
 - .space
 - .tech
-- co.uk
+- .co.uk
 
 My teams are on:
 CUBE-PRIVATE
