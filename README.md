@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a lover of Website creation. Check out [@CUBE-PRIVATE](https://github.com/CUBE-PRIVATE) for shared websites and scripts.
+I make static websites.
 
 Domain TLDs I used - lifetime
 - .com
@@ -8,10 +8,12 @@ Domain TLDs I used - lifetime
 - .design
 - .space
 - .tech
+- .buzz
 - .co.uk
 
 My teams are on:
 CUBE-PRIVATE
+EDTeam14-Codes
 And My Website Archive.
 
 BEST MOMENTS
